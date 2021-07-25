@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-apple-128gb-product-red-tela-61-cam-dupla-12mp-ios/magazineluiza/155598300/65ee760f109c26a612ab0902fa5b5a39.jpg",
+            "name": "IPhone",
+            "description": "iPhone 12 Apple 128GB Red ",
+            "price": "5.579,07"
+        },
+        {
+            "id": 2,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-apple-128gb-preto-tela-61-cam-dupla-12mp-ios/magazineluiza/155598100/4336640557dbc605310be47a2ee3e4a5.jpg",
+            "name": "IPhone",
+            "description": "iPhone 12 Apple 128GB Black",
+            "price": "6.785,99"
+        },
+        {
+            "id": 3,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-apple-128gb-branco-tela-61-cam-dupla-12mp-ios/magazineluiza/155598200/7113fbc533fa7288325b3d5668faab86.jpg",
+            "name": "IPhone",
+            "description": "iPhone 12 Apple 128GB Branco",
+            "price": "5.459,99"
+        },
+        {
+            "id": 4,
+            "photo": "https://a-static.mlcdn.com.br/618x463/iphone-12-pro-max-apple-128gb-dourado-67-cam-tripla-12mp-ios/magazineluiza/155596100/fe62b2a9a700e86e1a4eb40796f8c814.jpg",
+            "name": "IPhone",
+            "description": "iPhone 12 Pro Max 128GB Dourado",
+            "price": "8.369,07"
+        }
+    ]
+}
